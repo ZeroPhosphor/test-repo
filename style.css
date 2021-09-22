@@ -1,0 +1,40 @@
+*{
+    margin:0;
+}
+
+html{
+    height:150%;
+    background-color: orange;
+}
+
+.wrapper{
+    box-sizing: border-box;
+    padding-top: 80px;
+    padding-left: 8px;
+}
+
+nav{
+    height:80px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: grey;
+    box-sizing: border-box;
+    padding: 20px 8px;
+}
+
+h1{
+    color: red;
+    text-align: center;
+}
+
+p{
+    margin-bottom: 20px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    margin-right: 13px;
+}
